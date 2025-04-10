@@ -15,7 +15,7 @@ const Footer = () => {
           />
         </Link>
 
-        <p>2025 ArtConnect. All rights reserved.</p>
+        <p className="text-muted-foreground font-semibold">2025 @ArtConnect. All rights reserved.</p>
       </div>
 
     </footer>

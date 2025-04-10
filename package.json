@@ -19,8 +19,10 @@
     "mongodb": "^6.14.2",
     "mongoose": "^8.12.1",
     "next": "14.2.24",
+    "query-string": "^9.1.1",
     "react": "^18",
     "react-dom": "^18",
+    "svix": "^1.62.0",
     "tailwind-merge": "^3.0.2",
     "tailwindcss-animate": "^1.0.7"
   },
