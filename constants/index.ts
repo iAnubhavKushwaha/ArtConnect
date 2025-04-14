@@ -18,10 +18,10 @@ export const eventsDefaultValues = {
   description: "",
   location: "",
   imageUrl: "",
-  startDateTime: "",
-  endDateTime: "",
+  startDateTime: new Date(), // ✅ must be a Date object
+  endDateTime: new Date(),   // ✅ must be a Date object
   categoryId: "",
   price: "",
-  isFree: "",
+  isFree: false,             // ✅ must be a boolean
   url: "",
 };
