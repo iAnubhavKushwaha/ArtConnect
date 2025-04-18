@@ -3,7 +3,7 @@ import { formatDateTime } from "@/lib/utils";
 import Link from "next/link";
 import Image from "next/image";
 import { auth } from "@clerk/nextjs/server";
-import {DeleteConfirmation} from "./DeleteConfirmation";
+import { DeleteConfirmation } from "./DeleteConfirmation";
 
 type CardProps = {
   event: IEvent;
@@ -35,7 +35,7 @@ export default async function Card ({ event, hasOrderLink, hidePrice }: CardProp
                 height={15} />
                 </Link>
 
-                <DeleteConfirmation eventId={event._id}/>
+                <DeleteConfirmation eventId={event._}/>
             </div>
 
         )}
