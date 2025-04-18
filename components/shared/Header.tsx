@@ -28,7 +28,7 @@ const Header = () => {
                     <MobileNav/>
                 </SignedIn>
                 <SignedOut>
-                    <Button asChild className='rounded-full' size='lg'>
+                    <Button asChild className='rounded-full bg-purple-500' size='lg'>
                         <Link href='/sign-in'>
                         Login
                         </Link>

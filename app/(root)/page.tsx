@@ -22,7 +22,7 @@ export default async function Home() {
           <div className="flex flex-col justify-center gap-8">
             <h1 className="h1-bold">Host, Connect, Celebrate: Your Events, Our Magic!</h1>
             <p className="p-regular-20 md:p-regular-24">Unlock expert advice from 3,168+ mentors at world-class companies—your global community awaits!</p>
-            <Button size="lg" asChild className="button w-full sm:w-fit">
+            <Button size="lg" asChild className="button w-full sm:w-fit bg-purple-500">
               <Link href="#events">
                 Explore Now
               </Link>
