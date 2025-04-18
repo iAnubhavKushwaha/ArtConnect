@@ -35,7 +35,7 @@ export default async function Card ({ event, hasOrderLink, hidePrice }: CardProp
                 height={15} />
                 </Link>
 
-                <DeleteConfirmation eventId={event._}/>
+                <DeleteConfirmation eventId={event._id}/>
             </div>
 
         )}
