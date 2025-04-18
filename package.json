@@ -32,6 +32,7 @@
     "react-datepicker": "^8.3.0",
     "react-dom": "^18",
     "react-hook-form": "^7.55.0",
+    "react-icons": "^5.5.0",
     "svix": "^1.62.0",
     "tailwind-merge": "^3.0.2",
     "tailwindcss-animate": "^1.0.7",
