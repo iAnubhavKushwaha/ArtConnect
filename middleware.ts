@@ -5,7 +5,7 @@ const isPublicRoute = createRouteMatcher([
   "/",
   "/events/:id",
   "/api/webhooks/clerk",
-  "/api/webhook/stripe",
+  "/api/webhooks/stripe",
   "/api/uploadthing",
 ]);
 
