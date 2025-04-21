@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="text-center sm:text-left">
             <Link href="/">
               <Image
-                src="/assets/images/logo2.svg"
+                src="/assets/images/ArtConnect-logo.svg"
                 alt="ArtConnect Logo"
                 width={128}
                 height={38}
