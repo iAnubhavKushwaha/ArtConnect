@@ -24,11 +24,10 @@ export default async function Home({ searchParams }: SearchParamProps) {
         <div className="wrapper grid grid-cols-1 gap-5 md:grid-cols-2 2xl:gap-0">
           <div className="flex flex-col justify-center gap-8">
             <h1 className="h1-bold">
-              Host, Connect, Celebrate: Your Events, Our Magic!
+            Plan It, Slay It, Celebrate It: Your Event, Our Playground!
             </h1>
             <p className="p-regular-20 md:p-regular-24">
-              Unlock expert advice from 3,168+ mentors at world-class
-              companies—your global community awaits!
+            From Ideas to Tickets, Empowering Creators to Design, Market, and Sell Unforgettable Events, All in One Place!
             </p>
             <Button
               size="lg"
@@ -54,7 +53,7 @@ export default async function Home({ searchParams }: SearchParamProps) {
         className="wrapper my-8 flex flex-col gap-8 md:gap-12"
       >
         <h2 className="h2-bold">
-          Trusted with ❤️ <br /> Thousands of Events
+          Trusted with ❤️ <br /> Curating Moments to Remember 
         </h2>
 
         <div className="flex w-full flex-col gap-5 md:flex-row">
