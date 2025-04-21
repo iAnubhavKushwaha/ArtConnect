@@ -11,7 +11,7 @@ const Header = () => {
     <header className='w-full border-b'>
         <div className='wrapper flex items-center justify-between'>
             <Link href='/' className='w-36'>
-                <Image src='/assets/images/logo2.svg' width={132} height={40} alt='logo'/>
+                <Image src='/assets/images/ArtConnect-logo.svg' width={160} height={50} alt='logo'/>
             </Link>
 
 
